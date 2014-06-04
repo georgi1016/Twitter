@@ -1,5 +1,5 @@
 TwitterAuth <- function(api_key,api_secret){
-chooseCRANmirror(ind=74)  
+  
 install.packages(c("twitteR","RCurl"))
 require(RCurl)
 require(twitteR)

@@ -1,3 +1,4 @@
+chooseCRANmirror(ind=74)
 install.packages(c("twitteR","RCurl"))
 require(RCurl)
 library(RJSONIO)
