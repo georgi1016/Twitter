@@ -1,5 +1,3 @@
-install.packages(c("twitteR","RCurl"))
-require(RCurl)
 library(RJSONIO)
 library(stringr)
 library(tm)
